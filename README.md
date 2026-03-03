@@ -156,4 +156,4 @@ MIT License — feel free to use, modify, and distribute.
 
 ## 🙋 Author
 
-Made by **[Your Name]** · [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
+Made by **Cleberson Flores** · [LinkedIn](https://linkedin.com/in/clebersonflores) · [GitHub](https://github.com/ClebersonFlores)
